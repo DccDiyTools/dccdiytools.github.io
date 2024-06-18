@@ -1,6 +1,4 @@
-= Dcc DiY Tools
-:experimental:
-ifndef::env-github[:toc:]
+# Dcc DiY Tools
 
 Los modulos "DCC DiY Tools" son una serie de "Herramientas DCC Hazlo tu Mismo", pensadas para la gente con conocimiento de las placas Arduino y similares
 puedan desarrollar sus porpios modulos sin tener que preocuparse de las complejidades y de los problemas comunes.
