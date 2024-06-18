@@ -1,0 +1,14 @@
+= Dcc Diy Tools
+:showtitle:
+:page-title: Dcc Diy Tools
+:page-description: Pagina Principal Dcc Diy Tools
+
+Herramientas OSHW para tu propia Maqueta de trenes
+
+== Para ti
+
+* ¿Quieres una maqueta de Trenes?
+* ¿Quieres tener el control de tus accesorios?
+* ¿Quieres la libertad de personalizar tus accesorios?
+
+

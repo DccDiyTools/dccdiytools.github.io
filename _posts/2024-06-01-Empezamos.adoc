@@ -1,0 +1,19 @@
+= Comenzando...
+:showtitle:
+:page-navtitle: Comenzamos
+:page-excerpt: Dcc DiY Tools ha comenzado...
+:page-root: ../../../
+
+* ¿Quieres una maqueta de Trenes?
+* ¿Quieres tener el control de tus accesorios?
+* ¿Quieres la libertad de personalizar tus accesorios?
+
+
+== Que es DCC DiY Tools
+
+Dcc DiY Tools es un repositorio de accesorios para maquetas de Tren licenciado 
+mediante licencia Open Source HardWare.
+
+Esto permite que cualquiera pueda fabricarse para uno mismo los accesorios 
+que necesite. Asi mismo cada uno es libre de modificar para si mismo estos accesorios y 
+ajustarselos para sus propias necesidades 
